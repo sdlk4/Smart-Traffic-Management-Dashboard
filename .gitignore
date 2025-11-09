@@ -1,0 +1,11 @@
+data/raw/*
+data/*.csv
+*.env
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.vscode/
+.DS_Store
+*.ipynb_checkpoints/
